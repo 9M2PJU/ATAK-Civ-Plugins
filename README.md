@@ -29,8 +29,6 @@ adb push plugin.apk /sdcard/Download/
 adb install /sdcard/Download/plugin.apk
 ```
 
-Alternatively, manually download from [Releases](https://github.com/yourrepo/releases), transfer to your device, and install via ATAK.
-
 ---
 
 ## 🛠 Requirements
