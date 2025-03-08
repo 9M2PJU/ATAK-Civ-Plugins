@@ -1,8 +1,6 @@
 # 📡 ATAK/WinTAK Civ Plugins Compilation
 A curated collection of **ATAK/WinTAK Civilian (Civ) Plugins** designed to enhance situational awareness, tactical coordination, and geospatial visualization within the **Team Awareness Kit (TAK)** ecosystem for Android and Windows platforms.
 
-🔗 **GitHub Repository:** [ATAK-Civ-Plugins](https://github.com/9M2PJU/ATAK-Civ-Plugins)
-
 ---
 
 ## 🚀 ATAK Core Features
