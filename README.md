@@ -1,9 +1,5 @@
 # 📡 ATAK Civ Plugins Compilation
 
-[![Latest Release](https://img.shields.io/github/v/release/yourrepo/atak-civ-plugins?style=for-the-badge)](https://github.com/yourrepo/releases) 
-[![Downloads](https://img.shields.io/github/downloads/yourrepo/atak-civ-plugins/total?style=for-the-badge)](https://github.com/yourrepo/releases) 
-[![Android Support](https://img.shields.io/badge/Android-9.0%2B-blue?style=for-the-badge)](https://developer.android.com/)
-
 A curated collection of **ATAK Civilian (Civ) Plugins** for enhancing situational awareness, tactical coordination, and geospatial visualization in the **Android Team Awareness Kit (ATAK)** ecosystem.
 
 ---
