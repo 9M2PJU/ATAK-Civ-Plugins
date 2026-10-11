@@ -51,3 +51,9 @@ A curated collection of **ATAK/WinTAK Civilian (Civ) Plugins** designed to enhan
 
 > **"Situational awareness begins with the right tools. Utilize TAK Plugins to enhance your tactical operations across all platforms."** 🚀
 
+
+## Support
+
+If you find this project useful, please consider supporting it:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9m2pju%40hamradio.my&currency_code=MYR&item_name=ATAK-Civ-Plugins)
